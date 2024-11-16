@@ -176,15 +176,6 @@ struct ImageClip: View {
             )
             .ignoresSafeArea(.container, edges: .all)
             .ignoresSafeArea(.container, edges: .all)
-    //        if showHome {
-    //            Text("Welcome mother fucker")
-    //                .onTapGesture {
-    //                    withAnimation(.spring()){
-    //                        liquidOffset = .zero
-    //                        showHome.toggle()
-    //                    }
-    //                }
-    //        }
         }
         
     }
